@@ -1,5 +1,5 @@
 PICでUSBホストやりたい(#3)ディスクリプタを作るぞ送るぞ<br>
-https://www.youtube.com/watch?v=vHuddUzkfqg<br>
+https://youtu.be/vHuddUzkfqg<br>
 
 「IchigoJamでUSBキーボードを使いたい」ってのがUSBを始めたきっかけ。<br>
 C言語分からないので、数年がかりでなんとかなりました。<br>
